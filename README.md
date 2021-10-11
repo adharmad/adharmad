@@ -1,5 +1,11 @@
 ### Hello, World! 👋
 
+- 🔭 I’m currently working on <code>gcc -o ./startup startup.c</code>
+- 🌱 I’m currently learning ...
+- 💬 Ask me about 
+- 📫 How to reach me: 
+- ⚡ Fun fact: 
+
 <!--
 **adharmad/adharmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +22,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=adharmad&count_private=true&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=adharmad&count_private=true&show_icons=true&theme=graywhite">
 </p>
