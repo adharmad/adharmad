@@ -1,10 +1,6 @@
 ### Hello, World! 👋
 
-- 🔭 I’m currently working on <code>gcc -o ./startup startup.c</code>
-- 🌱 I’m currently learning ...
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- ⚡ Fun fact: 
+<code>gcc -o ./startup startup.c</code>
 
 <!--
 **adharmad/adharmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
