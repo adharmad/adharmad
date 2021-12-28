@@ -21,6 +21,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=adharmad&count_private=true&show_icons=true&theme=graywhite">
 </p>
 
-<p align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adharmad)](https://git.io/streak-stats)
-</p>
+
