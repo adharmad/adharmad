@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=adharmad&count_private=true&show_icons=true&theme=transparent">
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=adharmad&count_private=true&show_icons=true&theme=transparent&cache_seconds=216000">
 </p>
 
 <p align="center">
